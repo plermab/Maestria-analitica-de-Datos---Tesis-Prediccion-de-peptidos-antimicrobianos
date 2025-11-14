@@ -20,19 +20,19 @@ Repositorio de tesis de maestría en Análítica de Datos - Sistema de predicci�
 Este proyecto implementa un sistema de predicción de péptidos antimicrobianos utilizando técnicas de fine-tuning sobre el modelo de lenguaje ProGen2. El trabajo forma parte de una tesis de maestría en Análítica de Datos y busca contribuir al descubrimiento de nuevos péptidos terapéuticos.
 
 ## 📁 Estructura del Repositorio
-├── 📓 Modelo_bac.ipynb # Modelo para péptidos antibacterianos
-├── 📓 Modelo_fungi.ipynb # Modelo para péptidos antifúngicos
-├── 📓 Modelo_viral.ipynb # Modelo para péptidos antivirales
-├── 📓 Modelo_cancer.ipynb # Modelo para péptidos anticancerígenos
-├── 📓 Modelo_HIV.ipynb # Modelo para péptidos anti-HIV
-├── 📓 Modelo_MRSA.ipynb # Modelo para péptidos anti-MRSA
-├── 📓 Modelo_tuber.ipynb # Modelo para péptidos anti-tuberculosis
-├── 📊 estadistica_BLAST.ipynb # Análisis estadístico y BLAST
-├── 🐍 prepare_data.py # Preparación y preprocesamiento de datos
-├── 🐍 finetune.py # Script de fine-tuning de modelos
-├── 🐍 sample.py # Generación de nuevas secuencias
-├── 📈 final_data.xlsx # Dataset completo de péptidos
-└── 📄 README.md # Este archivo
+-📓 Modelo_bac.ipynb # Modelo para péptidos antibacterianos.
+-📓 Modelo_fungi.ipynb # Modelo para péptidos antifúngicos.
+-📓 Modelo_viral.ipynb # Modelo para péptidos antivirales.
+-📓 Modelo_cancer.ipynb # Modelo para péptidos anticancerígenos.
+-📓 Modelo_HIV.ipynb # Modelo para péptidos anti-HIV.
+-📓 Modelo_MRSA.ipynb # Modelo para péptidos anti-MRSA.
+-📓 Modelo_tuber.ipynb # Modelo para péptidos anti-tuberculosis.
+-📊 estadistica_BLAST.ipynb # Análisis estadístico y BLAST.
+-🐍 prepare_data.py # Preparación y preprocesamiento de datos.
+-🐍 finetune.py # Script de fine-tuning de modelos.
+-🐍 sample.py # Generación de nuevas secuencias.
+-📈 final_data.xlsx # Dataset completo de péptidos.
+-📄 README.md # Este archivo.
 
 ## 🧬 Modelos Incluidos
 
